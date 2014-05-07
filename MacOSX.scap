@@ -545,6 +545,16 @@
          </Appearance>
          <String>New Note</String>
       </Note>
+<<<<<<< HEAD
+=======
+      <Note Width="156.25" FontSize="12" ID="69" Position="3669.5,2018.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+      </Note>
+>>>>>>> master
    </Notes>
    <BackgroundShapes/>
    <NoteStyles>
