@@ -524,6 +524,13 @@
          <String>Terminal</String>
          <ConnectedNoteIDs>3</ConnectedNoteIDs>
       </Note>
+      <Note Width="156.25" FontSize="12" ID="39" Position="3981.2,1917.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+      </Note>
    </Notes>
    <BackgroundShapes/>
    <NoteStyles>
