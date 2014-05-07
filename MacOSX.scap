@@ -524,6 +524,34 @@
          <String>Terminal</String>
          <ConnectedNoteIDs>3</ConnectedNoteIDs>
       </Note>
+      <Note Width="156.25" FontSize="12" ID="39" Position="3981.2,1917.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="67" Position="3778.1,1988.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="68" Position="3899.2,2029.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="69" Position="3669.5,2018.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>New Note</String>
+      </Note>
    </Notes>
    <BackgroundShapes/>
    <NoteStyles>
