@@ -515,6 +515,14 @@
          <String>Finder 显示</String>
          <ConnectedNoteIDs>1, 7, 33, 40-43</ConnectedNoteIDs>
       </Note>
+      <Note Width="57.4219" FontSize="12" ID="34" Position="3814.1,1939.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.666667 0.666667 1.0</Fill>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Terminal</String>
+      </Note>
    </Notes>
    <BackgroundShapes/>
    <NoteStyles>
