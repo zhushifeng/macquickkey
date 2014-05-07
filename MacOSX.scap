@@ -31,7 +31,7 @@
          </Appearance>
          <String>系统
 </String>
-         <ConnectedNoteIDs>0, 19, 45, 51, 57</ConnectedNoteIDs>
+         <ConnectedNoteIDs>0, 19, 34, 45, 51, 57</ConnectedNoteIDs>
       </Note>
       <Note Width="145" FontSize="12" ID="5" Position="4029.8,1575.9">
          <Appearance>
@@ -522,6 +522,7 @@
             <Border Weight="0" Style="Rounded"/>
          </Appearance>
          <String>Terminal</String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
       </Note>
    </Notes>
    <BackgroundShapes/>
