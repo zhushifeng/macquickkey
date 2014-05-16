@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <ScappleDocument ID="C4866A0D-362A-4A20-8FC8-FD28827EC7E3" Version="1.1">
    <Notes>
-      <Note Width="51.3672" FontSize="12" ID="0" Position="3753.7,1570.1">
+      <Note Width="108.203" FontSize="10" ID="0" Position="3699.0,1570.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.333333 1.0 1.0</Fill>
@@ -16,7 +16,7 @@
 </String>
          <ConnectedNoteIDs>1, 3, 12</ConnectedNoteIDs>
       </Note>
-      <Note Width="44" FontSize="12" ID="1" Position="3846.6,1535.9">
+      <Note Width="108.203" FontSize="10" ID="1" Position="3803.6,1535.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.666667 0.666667 1.0</Fill>
@@ -24,7 +24,7 @@
          <String>Finder</String>
          <ConnectedNoteIDs>0, 2, 5, 27, 29-31, 35, 37, 66</ConnectedNoteIDs>
       </Note>
-      <Note Width="32.4219" FontSize="12" ID="3" Position="3774.4,1682.2">
+      <Note Width="108.203" FontSize="10" ID="3" Position="3731.4,1682.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.666667 0.666667 1.0</Fill>
@@ -33,56 +33,56 @@
 </String>
          <ConnectedNoteIDs>0, 19, 34, 39, 45, 51, 57, 75</ConnectedNoteIDs>
       </Note>
-      <Note Width="145" FontSize="12" ID="5" Position="4029.8,1575.9">
+      <Note Width="108.203" FontSize="10" ID="5" Position="4004.8,1547.8">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>关闭窗口   Command-W</String>
          <ConnectedNoteIDs>1, 6</ConnectedNoteIDs>
       </Note>
-      <Note Width="213" FontSize="12" ID="6" Position="4241.6,1567.8">
+      <Note Width="169.337" FontSize="10" ID="6" Position="4194.7,1547.5">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>关闭所有窗口   Command-Option-W</String>
          <ConnectedNoteIDs>5</ConnectedNoteIDs>
       </Note>
-      <Note Width="97" FontSize="12" ID="7" Position="4152.5,1334.7">
+      <Note Width="108.203" FontSize="10" ID="7" Position="4147.0,1309.7">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>快速打开 Space</String>
-         <ConnectedNoteIDs>8, 33, 66</ConnectedNoteIDs>
+         <ConnectedNoteIDs>8, 66</ConnectedNoteIDs>
       </Note>
-      <Note Width="179.098" FontSize="12" ID="8" Position="4293.6,1333.9">
+      <Note Width="148.438" FontSize="10" ID="8" Position="4287.5,1312.0">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>全屏打开 Command－Option－Y</String>
          <ConnectedNoteIDs>7, 32</ConnectedNoteIDs>
       </Note>
-      <Note Width="207.769" FontSize="12" ID="9" Position="4135.2,1677.6">
+      <Note Width="181.206" FontSize="10" ID="9" Position="4089.1,1670.6">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>切换到最近使用的程序 Command-Tab</String>
-         <ConnectedNoteIDs>45, 68</ConnectedNoteIDs>
+         <ConnectedNoteIDs>45, 68, 83</ConnectedNoteIDs>
       </Note>
-      <Note Width="195.781" FontSize="12" ID="10" Position="4555.0,1824.7">
+      <Note Width="166.875" FontSize="10" ID="10" Position="4477.7,1797.4">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>隐藏／显示所有打开的窗口   F11  </String>
          <ConnectedNoteIDs>56</ConnectedNoteIDs>
       </Note>
-      <Note Width="194" FontSize="12" ID="11" Position="3070.3,1459.0">
+      <Note Width="153.503" FontSize="10" ID="11" Position="2957.0,1394.9">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>退出当前应用程序 Command－Q</String>
          <ConnectedNoteIDs>12</ConnectedNoteIDs>
       </Note>
-      <Note Width="82.4219" FontSize="12" ID="12" Position="3346.9,1414.3">
+      <Note Width="108.203" FontSize="10" ID="12" Position="3303.9,1414.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.666667 0.666667 1.0</Fill>
@@ -91,42 +91,42 @@
 </String>
          <ConnectedNoteIDs>0, 11, 13-14, 16-18, 25, 44, 53</ConnectedNoteIDs>
       </Note>
-      <Note Width="132.422" FontSize="12" ID="13" Position="3072.5,1272.9">
+      <Note Width="150.234" FontSize="10" ID="13" Position="2960.9,1262.7">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>打开新文档 Command-N</String>
          <ConnectedNoteIDs>12</ConnectedNoteIDs>
       </Note>
-      <Note Width="144.922" FontSize="12" ID="14" Position="3072.5,1302.2">
+      <Note Width="146.328" FontSize="10" ID="14" Position="2964.8,1282.7">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>打开打印窗口 Command-P</String>
          <ConnectedNoteIDs>12</ConnectedNoteIDs>
       </Note>
-      <Note Width="165" FontSize="12" ID="16" Position="3066.8,1328.6">
+      <Note Width="145.316" FontSize="10" ID="16" Position="2962.5,1305.9">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>另存为 Command－Shift－S</String>
          <ConnectedNoteIDs>12</ConnectedNoteIDs>
       </Note>
-      <Note Width="120" FontSize="12" ID="17" Position="3081.9,1356.7">
+      <Note Width="145.572" FontSize="10" ID="17" Position="2969.5,1325.5">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>取消 Command －Z</String>
          <ConnectedNoteIDs>12</ConnectedNoteIDs>
       </Note>
-      <Note Width="216" FontSize="12" ID="18" Position="3071.2,1423.4">
+      <Note Width="173.934" FontSize="10" ID="18" Position="2933.6,1371.1">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>重做上一个命令 Command－Shift－Z</String>
          <ConnectedNoteIDs>12</ConnectedNoteIDs>
       </Note>
-      <Note Width="32" FontSize="12" ID="19" Position="3710.5,1797.7">
+      <Note Width="108.203" FontSize="10" ID="19" Position="3667.5,1797.7">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.666667 0.666667 1.0</Fill>
@@ -134,72 +134,72 @@
          <String>截屏</String>
          <ConnectedNoteIDs>3, 20-23, 67</ConnectedNoteIDs>
       </Note>
-      <Note Width="194" FontSize="12" ID="20" Position="3403.2,1783.1">
+      <Note Width="153.906" FontSize="10" ID="20" Position="3266.4,1784.7">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>截屏存成图片 Command-Shift-3</String>
          <ConnectedNoteIDs>19</ConnectedNoteIDs>
       </Note>
-      <Note Width="233" FontSize="12" ID="21" Position="3381.4,1809.2">
+      <Note Width="198.438" FontSize="10" ID="21" Position="3219.5,1809.2">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>截屏存入剪贴板 Command -Shift-Ctrl-3</String>
          <ConnectedNoteIDs>19</ConnectedNoteIDs>
       </Note>
-      <Note Width="238" FontSize="12" ID="22" Position="3379.8,1843.9">
+      <Note Width="185.938" FontSize="10" ID="22" Position="3238.3,1830.6">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>截部分屏存成图片 Command-Shift -4</String>
          <ConnectedNoteIDs>19</ConnectedNoteIDs>
       </Note>
-      <Note Width="280" FontSize="12" ID="23" Position="3375.7,1868.0">
+      <Note Width="222.656" FontSize="10" ID="23" Position="3201.6,1855.5">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>截部分屏存入剪贴板 Command-Shift-Ctrl-4</String>
          <ConnectedNoteIDs>19</ConnectedNoteIDs>
       </Note>
-      <Note Width="171.028" FontSize="12" ID="24" Position="2779.7,1504.5">
+      <Note Width="129.297" FontSize="10" ID="24" Position="2707.0,1467.0">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
-         <String>将焦点集中到menu Ctrl＋F2</String>
+         <String>将焦点集中到menu Ctrl F2</String>
          <ConnectedNoteIDs>25</ConnectedNoteIDs>
       </Note>
-      <Note Width="32.4219" FontSize="12" ID="25" Position="3169.5,1521.1">
+      <Note Width="108.203" FontSize="10" ID="25" Position="3100.8,1464.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.666667 0.666667 1.0</Fill>
          </Appearance>
          <String>菜单
 </String>
-         <ConnectedNoteIDs>12, 24, 26</ConnectedNoteIDs>
+         <ConnectedNoteIDs>12, 24, 26, 71, 74</ConnectedNoteIDs>
       </Note>
-      <Note Width="177" FontSize="12" ID="26" Position="2780.5,1535.8">
+      <Note Width="149.641" FontSize="10" ID="26" Position="2693.8,1493.6">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>打开选中的菜单 space/return  </String>
          <ConnectedNoteIDs>25</ConnectedNoteIDs>
       </Note>
-      <Note Width="182.43" FontSize="12" ID="27" Position="3987.9,1423.3">
+      <Note Width="137.881" FontSize="10" ID="27" Position="3944.9,1423.3">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
-         <String>删除到垃圾桶 Command－Delete</String>
+         <String>删除到垃圾桶 Command－Del</String>
          <ConnectedNoteIDs>1, 28</ConnectedNoteIDs>
       </Note>
-      <Note Width="216.564" FontSize="12" ID="28" Position="4206.9,1418.1">
+      <Note Width="175.913" FontSize="10" ID="28" Position="4163.9,1418.1">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
          <String>清空垃圾桶 Command－Shift－Delete</String>
          <ConnectedNoteIDs>27</ConnectedNoteIDs>
       </Note>
-      <Note Width="189.062" FontSize="12" ID="2" Position="3986.7,1453.1">
+      <Note Width="154.706" FontSize="10" ID="2" Position="3943.7,1453.1">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -207,7 +207,7 @@
          <String>移动文件 Command - Drag File</String>
          <ConnectedNoteIDs>1, 15</ConnectedNoteIDs>
       </Note>
-      <Note Width="182.031" FontSize="12" ID="15" Position="4210.9,1448.4">
+      <Note Width="147.694" FontSize="10" ID="15" Position="4204.6,1447.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -215,7 +215,7 @@
          <String>复制文件 Option - Drag File </String>
          <ConnectedNoteIDs>2</ConnectedNoteIDs>
       </Note>
-      <Note Width="166.406" FontSize="12" ID="29" Position="3993.8,1482.0">
+      <Note Width="146.044" FontSize="10" ID="29" Position="3950.8,1475.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -223,7 +223,7 @@
          <String>创建快捷方式   Command -L</String>
          <ConnectedNoteIDs>1</ConnectedNoteIDs>
       </Note>
-      <Note Width="169.531" FontSize="12" ID="30" Position="4008.6,1514.8">
+      <Note Width="144.525" FontSize="10" ID="30" Position="3964.1,1495.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -231,7 +231,7 @@
          <String>复制选中的文件 Command - D  </String>
          <ConnectedNoteIDs>1</ConnectedNoteIDs>
       </Note>
-      <Note Width="190.625" FontSize="12" ID="31" Position="4013.3,1548.4">
+      <Note Width="145.294" FontSize="10" ID="31" Position="4005.5,1524.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -239,7 +239,7 @@
          <String>新建文件夹 Command-Shift-N</String>
          <ConnectedNoteIDs>1</ConnectedNoteIDs>
       </Note>
-      <Note Width="119.922" FontSize="12" ID="32" Position="4508.6,1331.2">
+      <Note Width="108.203" FontSize="10" ID="32" Position="4511.7,1310.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -247,15 +247,15 @@
          <String>显示简介 Command-I</String>
          <ConnectedNoteIDs>8</ConnectedNoteIDs>
       </Note>
-      <Note Width="119.922" FontSize="12" ID="33" Position="4153.1,1354.7">
+      <Note Width="108.203" FontSize="10" ID="33" Position="4153.1,1334.4">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
          </Appearance>
          <String>打开文件 Command-O</String>
-         <ConnectedNoteIDs>7, 66</ConnectedNoteIDs>
+         <ConnectedNoteIDs>66</ConnectedNoteIDs>
       </Note>
-      <Note Width="220.312" FontSize="12" ID="35" Position="3986.7,1611.7">
+      <Note Width="179.706" FontSize="10" ID="35" Position="4000.0,1567.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -263,7 +263,7 @@
          <String>打开“网络”窗口  Command-Shift-K</String>
          <ConnectedNoteIDs>1, 36</ConnectedNoteIDs>
       </Note>
-      <Note Width="132.422" FontSize="12" ID="36" Position="4255.5,1610.9">
+      <Note Width="108.203" FontSize="10" ID="36" Position="4303.9,1571.1">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -271,7 +271,7 @@
          <String>连接服务器 Command-K</String>
          <ConnectedNoteIDs>35</ConnectedNoteIDs>
       </Note>
-      <Note Width="132.422" FontSize="12" ID="37" Position="3992.2,1389.8">
+      <Note Width="108.203" FontSize="10" ID="37" Position="3949.2,1389.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -279,7 +279,7 @@
          <String>最小化窗口 Command-M</String>
          <ConnectedNoteIDs>1, 38</ConnectedNoteIDs>
       </Note>
-      <Note Width="210.938" FontSize="12" ID="38" Position="4182.8,1388.3">
+      <Note Width="178.137" FontSize="10" ID="38" Position="4139.8,1388.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -287,7 +287,7 @@
          <String>最小化所有窗口 Command-Option-M</String>
          <ConnectedNoteIDs>37</ConnectedNoteIDs>
       </Note>
-      <Note Width="132.422" FontSize="12" ID="40" Position="4153.1,1220.3">
+      <Note Width="108.203" FontSize="10" ID="40" Position="4239.0,1212.5">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -295,7 +295,7 @@
          <String>以图标显示 Command-1</String>
          <ConnectedNoteIDs>66</ConnectedNoteIDs>
       </Note>
-      <Note Width="156.25" FontSize="12" ID="41" Position="4146.9,1248.4">
+      <Note Width="133.569" FontSize="10" ID="41" Position="4239.1,1230.4">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -303,7 +303,7 @@
          <String>以列表方式显示 Command-2</String>
          <ConnectedNoteIDs>66</ConnectedNoteIDs>
       </Note>
-      <Note Width="156.25" FontSize="12" ID="42" Position="4153.1,1275.8">
+      <Note Width="134.4" FontSize="10" ID="42" Position="4239.8,1253.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -311,7 +311,7 @@
          <String>以分栏方式显示 Command-3 </String>
          <ConnectedNoteIDs>66</ConnectedNoteIDs>
       </Note>
-      <Note Width="220.312" FontSize="12" ID="43" Position="4147.7,1303.9">
+      <Note Width="168.706" FontSize="10" ID="43" Position="4236.8,1282.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -319,7 +319,7 @@
          <String>以 Cover Flow方式显示 Command-4</String>
          <ConnectedNoteIDs>66</ConnectedNoteIDs>
       </Note>
-      <Note Width="190.625" FontSize="12" ID="44" Position="3068.0,1243.8">
+      <Note Width="165.234" FontSize="10" ID="44" Position="2944.5,1243.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -327,7 +327,7 @@
          <String>打开偏好设置 Command-逗号 (,) </String>
          <ConnectedNoteIDs>12</ConnectedNoteIDs>
       </Note>
-      <Note Width="57.4219" FontSize="12" ID="45" Position="3948.4,1733.6">
+      <Note Width="108.203" FontSize="10" ID="45" Position="3905.4,1733.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.666667 0.666667 1.0</Fill>
@@ -336,7 +336,7 @@
          <String>当前操作</String>
          <ConnectedNoteIDs>3, 9, 46-49, 55</ConnectedNoteIDs>
       </Note>
-      <Note Width="107.422" FontSize="12" ID="46" Position="4138.3,1766.4">
+      <Note Width="108.203" FontSize="10" ID="46" Position="4114.1,1750.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -344,7 +344,7 @@
          <String>显示应用程序 F4 </String>
          <ConnectedNoteIDs>45</ConnectedNoteIDs>
       </Note>
-      <Note Width="144.922" FontSize="12" ID="47" Position="4135.2,1708.6">
+      <Note Width="149.175" FontSize="10" ID="47" Position="4082.1,1699.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -352,7 +352,7 @@
          <String>显示Mission Control F3</String>
          <ConnectedNoteIDs>45</ConnectedNoteIDs>
       </Note>
-      <Note Width="126.172" FontSize="12" ID="48" Position="4139.1,1800.8">
+      <Note Width="108.203" FontSize="10" ID="48" Position="4110.2,1776.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -360,7 +360,7 @@
          <String>显示桌面 Command-F3</String>
          <ConnectedNoteIDs>45</ConnectedNoteIDs>
       </Note>
-      <Note Width="183.613" FontSize="12" ID="49" Position="4136.7,1740.6">
+      <Note Width="168.769" FontSize="10" ID="49" Position="4084.4,1726.5">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -368,15 +368,15 @@
          <String>Dock 开/关  Option-Command-D</String>
          <ConnectedNoteIDs>45</ConnectedNoteIDs>
       </Note>
-      <Note Width="202.344" FontSize="12" ID="50" Position="3354.7,1710.2">
+      <Note Width="166.016" FontSize="10" ID="50" Position="3157.8,1708.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
          </Appearance>
-         <String>Spotlight On/Off  Command-Space</String>
-         <ConnectedNoteIDs>51</ConnectedNoteIDs>
+         <String>Spotlight On/Off  Control-Space</String>
+         <ConnectedNoteIDs>51, 54, 86-87</ConnectedNoteIDs>
       </Note>
-      <Note Width="32.4219" FontSize="12" ID="51" Position="3668.8,1708.6">
+      <Note Width="108.203" FontSize="10" ID="51" Position="3582.1,1731.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.666667 0.666667 1.0</Fill>
@@ -385,31 +385,23 @@
          <String>搜索</String>
          <ConnectedNoteIDs>3, 50, 52</ConnectedNoteIDs>
       </Note>
-      <Note Width="306.25" FontSize="12" ID="52" Position="3355.5,1732.8">
+      <Note Width="145.703" FontSize="10" ID="52" Position="3153.9,1735.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
          </Appearance>
-         <String>显示Spotlight窗口 Option-Command-Space  </String>
+         <String>显示Spotlight窗口 Option-Control-Space  </String>
          <ConnectedNoteIDs>51</ConnectedNoteIDs>
       </Note>
-      <Note Width="172.656" FontSize="12" ID="53" Position="3071.9,1393.0">
+      <Note Width="136.353" FontSize="10" ID="53" Position="2971.1,1347.7">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
          </Appearance>
          <String>显示帮助  Command-Shift-/ </String>
-         <ConnectedNoteIDs>12, 54</ConnectedNoteIDs>
+         <ConnectedNoteIDs>12</ConnectedNoteIDs>
       </Note>
-      <Note Width="187.5" FontSize="12" ID="54" Position="2821.9,1389.8">
-         <Appearance>
-            <Alignment>Left</Alignment>
-            <Border Weight="0" Style="Rounded"/>
-         </Appearance>
-         <String>打开帮助搜索 Command-Shift-?</String>
-         <ConnectedNoteIDs>53</ConnectedNoteIDs>
-      </Note>
-      <Note Width="144.922" FontSize="12" ID="55" Position="4135.9,1825.8">
+      <Note Width="125.038" FontSize="10" ID="55" Position="4107.0,1797.7">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -417,7 +409,7 @@
          <String>隐藏当前窗口 Command-H</String>
          <ConnectedNoteIDs>45, 56</ConnectedNoteIDs>
       </Note>
-      <Note Width="214.062" FontSize="12" ID="56" Position="4316.4,1825.8">
+      <Note Width="108.203" FontSize="10" ID="56" Position="4309.4,1793.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -425,7 +417,7 @@
          <String>隐藏所有运行窗口 Command-Option-H</String>
          <ConnectedNoteIDs>10, 55</ConnectedNoteIDs>
       </Note>
-      <Note Width="63.6719" FontSize="12" ID="57" Position="3580.5,1577.3">
+      <Note Width="108.203" FontSize="10" ID="57" Position="3537.5,1577.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.666667 0.666667 1.0</Fill>
@@ -434,7 +426,7 @@
          <String>启动/关闭</String>
          <ConnectedNoteIDs>3-4, 58, 62</ConnectedNoteIDs>
       </Note>
-      <Note Width="83.5205" FontSize="12" ID="58" Position="3453.1,1578.1">
+      <Note Width="72.6813" FontSize="10" ID="58" Position="3425.0,1577.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -442,7 +434,7 @@
          <String>休眠 ⌽(once)</String>
          <ConnectedNoteIDs>57, 59</ConnectedNoteIDs>
       </Note>
-      <Note Width="89.7705" FontSize="12" ID="59" Position="3340.6,1578.1">
+      <Note Width="108.203" FontSize="10" ID="59" Position="3283.6,1576.5">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -450,7 +442,7 @@
          <String>唤醒 ⌽(again)</String>
          <ConnectedNoteIDs>58, 60</ConnectedNoteIDs>
       </Note>
-      <Note Width="107.739" FontSize="12" ID="60" Position="3211.7,1579.7">
+      <Note Width="108.203" FontSize="10" ID="60" Position="3133.6,1577.4">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -458,7 +450,7 @@
          <String>强制关机 ⌽(hold)</String>
          <ConnectedNoteIDs>59, 61</ConnectedNoteIDs>
       </Note>
-      <Note Width="167.969" FontSize="12" ID="61" Position="3013.3,1597.7">
+      <Note Width="138.262" FontSize="10" ID="61" Position="2932.8,1579.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -466,7 +458,7 @@
          <String>强制重启Command-Control-⌽</String>
          <ConnectedNoteIDs>60</ConnectedNoteIDs>
       </Note>
-      <Note Width="268.75" FontSize="12" ID="62" Position="3317.2,1626.6">
+      <Note Width="108.203" FontSize="10" ID="62" Position="3274.2,1626.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -474,7 +466,7 @@
          <String>显示重启/休眠/关机对话框 Control-Eject⏏</String>
          <ConnectedNoteIDs>57, 64</ConnectedNoteIDs>
       </Note>
-      <Note Width="325" FontSize="12" ID="63" Position="2536.7,1628.1">
+      <Note Width="254.706" FontSize="10" ID="63" Position="2598.4,1643.7">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -482,7 +474,7 @@
          <String>退出所有开启的程序 Command-Option-Control-Eject ⏏</String>
          <ConnectedNoteIDs>65</ConnectedNoteIDs>
       </Note>
-      <Note Width="207.031" FontSize="12" ID="64" Position="3085.2,1628.1">
+      <Note Width="108.203" FontSize="10" ID="64" Position="3109.4,1627.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -490,15 +482,14 @@
          <String>让显示器休眠 Control-Shift-Eject </String>
          <ConnectedNoteIDs>62, 65</ConnectedNoteIDs>
       </Note>
-      <Note Width="195" FontSize="12" ID="4" Position="3409.1,1663.7">
+      <Note Width="172.266" FontSize="10" ID="4" Position="3239.1,1665.3">
          <Appearance>
             <Alignment>Left</Alignment>
          </Appearance>
-         <String>注销   Command -Shift-Option-Q
-</String>
+         <String>注销   Command -Shift-Option-Q</String>
          <ConnectedNoteIDs>57</ConnectedNoteIDs>
       </Note>
-      <Note Width="165.625" FontSize="12" ID="65" Position="2894.5,1627.3">
+      <Note Width="108.203" FontSize="10" ID="65" Position="2900.8,1632.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -506,7 +497,7 @@
          <String>休眠 Command-Option-Eject</String>
          <ConnectedNoteIDs>63-64</ConnectedNoteIDs>
       </Note>
-      <Note Width="76.1719" FontSize="12" ID="66" Position="3990.6,1297.7">
+      <Note Width="108.203" FontSize="10" ID="66" Position="3947.6,1297.7">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.666667 0.666667 1.0</Fill>
@@ -515,16 +506,16 @@
          <String>Finder 显示</String>
          <ConnectedNoteIDs>1, 7, 33, 40-43</ConnectedNoteIDs>
       </Note>
-      <Note Width="57.4219" FontSize="12" ID="34" Position="3889.1,1902.3">
+      <Note Width="108.203" FontSize="10" ID="34" Position="3846.1,1902.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.666667 0.666667 1.0</Fill>
             <Border Weight="0" Style="Rounded"/>
          </Appearance>
          <String>Terminal</String>
-         <ConnectedNoteIDs>3, 80-81, 83</ConnectedNoteIDs>
+         <ConnectedNoteIDs>3, 80-82</ConnectedNoteIDs>
       </Note>
-      <Note Width="44.9219" FontSize="12" ID="39" Position="4006.2,1825.8">
+      <Note Width="108.203" FontSize="10" ID="39" Position="3963.2,1825.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.666667 0.666667 1.0</Fill>
@@ -534,7 +525,7 @@
 </String>
          <ConnectedNoteIDs>3</ConnectedNoteIDs>
       </Note>
-      <Note Width="316.406" FontSize="12" ID="67" Position="3370.3,1920.3">
+      <Note Width="550" FontSize="10" ID="67" Position="2896.1,1882.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -542,7 +533,7 @@
          <String>更改截屏复制地址，在Terminal中 defaults write com.apple.screencapture location /path/ ; killall Finder</String>
          <ConnectedNoteIDs>19</ConnectedNoteIDs>
       </Note>
-      <Note Width="201.562" FontSize="12" ID="68" Position="4413.3,1664.1">
+      <Note Width="348.419" FontSize="10" ID="68" Position="4357.1,1674.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <TextColor>0.0 0.0 0.0</TextColor>
@@ -551,52 +542,24 @@
          <String>切换程序时，按住Command同时 可以用 'Q' 来退出程序， 'H' 去隐藏程序</String>
          <ConnectedNoteIDs>9</ConnectedNoteIDs>
       </Note>
-      <Note Width="178.906" FontSize="12" ID="71" Position="2776.6,1559.4">
+      <Note Width="159.022" FontSize="10" ID="71" Position="2687.5,1515.7">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
          </Appearance>
          <String>按住Option，点击右边的菜单，会有不同的选项</String>
+         <ConnectedNoteIDs>25</ConnectedNoteIDs>
       </Note>
-      <Note Width="57.4219" FontSize="12" ID="75" Position="3767.2,1939.8">
+      <Note Width="108.203" FontSize="10" ID="75" Position="3724.2,1939.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.666667 0.666667 1.0</Fill>
             <Border Weight="0" Style="Rounded"/>
          </Appearance>
          <String>document</String>
-         <ConnectedNoteIDs>3, 70, 76-79, 84-85</ConnectedNoteIDs>
+         <ConnectedNoteIDs>3, 69-70, 72-73, 76-79, 84-85, 88</ConnectedNoteIDs>
       </Note>
-      <Note Width="156.25" FontSize="12" ID="69" Position="3480.5,1263.3">
-         <Appearance>
-            <Alignment>Left</Alignment>
-            <TextColor>0.0 0.0 0.0</TextColor>
-            <Border Weight="0" Style="Rounded"/>
-         </Appearance>
-         <String>文件的标题栏上， 点击文件标题旁边的图标（1-2）秒，可以拖拽文件到桌面/Finder中 </String>
-      </Note>
-      <Note Width="138.672" FontSize="12" ID="72" Position="3502.3,1349.2">
-         <Appearance>
-            <Alignment>Left</Alignment>
-            <Border Weight="0" Style="Rounded"/>
-         </Appearance>
-         <String>文档中字符自动提示 F5</String>
-      </Note>
-      <Note Width="156.25" FontSize="12" ID="73" Position="3549.2,1378.1">
-         <Appearance>
-            <Alignment>Left</Alignment>
-            <Border Weight="0" Style="Rounded"/>
-         </Appearance>
-         <String>文档中垂直选择 按住Option 选择</String>
-      </Note>
-      <Note Width="156.25" FontSize="12" ID="74" Position="3607.0,1444.5">
-         <Appearance>
-            <Alignment>Left</Alignment>
-            <Border Weight="0" Style="Rounded"/>
-         </Appearance>
-         <String>选择不连续的行 Command 选择</String>
-      </Note>
-      <Note Width="156.25" FontSize="12" ID="70" Position="3486.3,1974.6">
+      <Note Width="160.547" FontSize="10" ID="70" Position="3315.6,1922.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -604,7 +567,7 @@
          <String>文件的标题栏上， 点击文件标题，可以显示对话框</String>
          <ConnectedNoteIDs>75</ConnectedNoteIDs>
       </Note>
-      <Note Width="185.156" FontSize="12" ID="76" Position="3457.8,2088.3">
+      <Note Width="146.484" FontSize="10" ID="76" Position="3328.1,1997.7">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -612,7 +575,7 @@
          <String>选择不连续的行 Command 选择</String>
          <ConnectedNoteIDs>75</ConnectedNoteIDs>
       </Note>
-      <Note Width="190.625" FontSize="12" ID="77" Position="3456.2,2135.2">
+      <Note Width="162.891" FontSize="10" ID="77" Position="3314.1,2019.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -620,7 +583,7 @@
          <String>文档中垂直选择 按住Option 选择</String>
          <ConnectedNoteIDs>75</ConnectedNoteIDs>
       </Note>
-      <Note Width="138.672" FontSize="12" ID="78" Position="3491.4,2172.7">
+      <Note Width="123.822" FontSize="10" ID="78" Position="3354.7,2039.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -628,7 +591,7 @@
          <String>文档中字符自动提示 F5</String>
          <ConnectedNoteIDs>75</ConnectedNoteIDs>
       </Note>
-      <Note Width="156.25" FontSize="12" ID="79" Position="3485.9,2018.0">
+      <Note Width="207.422" FontSize="10" ID="79" Position="3268.0,1960.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <TextColor>0.0 0.0 0.0</TextColor>
@@ -637,7 +600,7 @@
          <String>文件的标题栏上， 点击文件标题旁边的图标（1-2）秒，可以拖拽文件到桌面/Finder中 </String>
          <ConnectedNoteIDs>75</ConnectedNoteIDs>
       </Note>
-      <Note Width="101.172" FontSize="12" ID="80" Position="3993.8,1957.8">
+      <Note Width="108.203" FontSize="10" ID="80" Position="4068.8,1875.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -645,7 +608,7 @@
          <String>发音 say + 单词</String>
          <ConnectedNoteIDs>34</ConnectedNoteIDs>
       </Note>
-      <Note Width="132.422" FontSize="12" ID="81" Position="3993.8,1990.6">
+      <Note Width="108.203" FontSize="10" ID="81" Position="4069.6,1899.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -653,22 +616,15 @@
          <String>打开文件 open + 单词</String>
          <ConnectedNoteIDs>34</ConnectedNoteIDs>
       </Note>
-      <Note Width="233.594" FontSize="12" ID="82" Position="4037.5,2028.1">
+      <Note Width="150.781" FontSize="10" ID="82" Position="4066.4,1928.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
          </Appearance>
          <String>防止睡眠  caffeinate/pmset noidle</String>
-      </Note>
-      <Note Width="156.25" FontSize="12" ID="83" Position="3994.5,2077.3">
-         <Appearance>
-            <Alignment>Left</Alignment>
-            <Border Weight="0" Style="Rounded"/>
-         </Appearance>
-         <String>finder显示全路径 defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES ; killall Finder</String>
          <ConnectedNoteIDs>34</ConnectedNoteIDs>
       </Note>
-      <Note Width="200.781" FontSize="12" ID="84" Position="3478.1,2210.9">
+      <Note Width="161.719" FontSize="10" ID="84" Position="3311.7,2065.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
@@ -676,12 +632,84 @@
          <String>删除整个单词 Option -Backspace</String>
          <ConnectedNoteIDs>75</ConnectedNoteIDs>
       </Note>
-      <Note Width="190.625" FontSize="12" ID="85" Position="3476.6,2256.2">
+      <Note Width="149.647" FontSize="10" ID="85" Position="3318.8,2089.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="0" Style="Rounded"/>
          </Appearance>
          <String>删除下个单词 Optionn -Delete</String>
+         <ConnectedNoteIDs>75</ConnectedNoteIDs>
+      </Note>
+      <Note Width="166.406" FontSize="10" ID="69" Position="3300.0,2150.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>到文档底部   Fn + 向下键  (类似于End)</String>
+         <ConnectedNoteIDs>75</ConnectedNoteIDs>
+      </Note>
+      <Note Width="159.375" FontSize="10" ID="72" Position="3301.6,2190.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>到文档顶部 Fn + 向上键 （类似于 Home）</String>
+         <ConnectedNoteIDs>75</ConnectedNoteIDs>
+      </Note>
+      <Note Width="158.594" FontSize="10" ID="73" Position="3297.7,2228.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>翻页 Fn + 向左键/向右键 （触摸板可能更快捷）</String>
+         <ConnectedNoteIDs>75</ConnectedNoteIDs>
+      </Note>
+      <Note Width="139.453" FontSize="10" ID="74" Position="2692.2,1447.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>将焦点集中在Dock上 Ctrl F3</String>
+         <ConnectedNoteIDs>25</ConnectedNoteIDs>
+      </Note>
+      <Note Width="149.609" FontSize="10" ID="54" Position="2915.6,1678.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>选择不同区块  command 上下键</String>
+         <ConnectedNoteIDs>50</ConnectedNoteIDs>
+      </Note>
+      <Note Width="108.203" FontSize="10" ID="86" Position="2956.2,1709.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>查看细节信息 左键</String>
+         <ConnectedNoteIDs>50</ConnectedNoteIDs>
+      </Note>
+      <Note Width="149.609" FontSize="10" ID="87" Position="2923.4,1734.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>在Finder中查看 Command Enter</String>
+         <ConnectedNoteIDs>50</ConnectedNoteIDs>
+      </Note>
+      <Note Width="280.469" FontSize="10" ID="83" Position="4357.0,1647.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>查看最近工作文件 command Tab 然后选择应用程序，向上键</String>
+         <ConnectedNoteIDs>9</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="10" ID="88" Position="3312.5,2118.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>查看单词含义 Command Ctrl D</String>
          <ConnectedNoteIDs>75</ConnectedNoteIDs>
       </Note>
    </Notes>
